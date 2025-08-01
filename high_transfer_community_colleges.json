@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 367459,
+    "name": "NorthWest Arkansas Community College",
+    "city": "Bentonville",
+    "state": "AR",
+    "zip": "72712-5091",
+    "size": 4632
+  },
+  {
+    "id": 107664,
+    "name": "University of Arkansas-Pulaski Technical College",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72118-3347",
+    "size": 3791
+  },
+  {
+    "id": 104160,
+    "name": "Arizona Western College",
+    "city": "Yuma",
+    "state": "AZ",
+    "zip": "85365-8834",
+    "size": 6198
+  },
+  {
+    "id": 104346,
+    "name": "Central Arizona College",
+    "city": "Coolidge",
+    "state": "AZ",
+    "zip": "85128-9030",
+    "size": 4892
+  },
+  {
+    "id": 364025,
+    "name": "Chandler-Gilbert Community College",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225-2499",
+    "size": 7626
+  },
+  {
+    "id": 404426,
+    "name": "Coconino Community College",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "86005-2701",
+    "size": 2575
+  },
+  {
+    "id": 384333,
+    "name": "Estrella Mountain Community College",
+    "city": "Avondale",
+    "state": "AZ",
+    "zip": "85392-1000",
+    "size": 6424
+  },
+  {
+    "id": 104708,
+    "name": "Glendale Community College",
+    "city": "Glendale",
+    "state": "AZ",
+    "zip": "85302",
+    "size": 10180
+  },
+  {
+    "id": 105154,
+    "name": "Mesa Community College",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85202",
+    "size": 12049
+  },
+  {
+    "id": 364016,
+    "name": "Paradise Valley Community College",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85032",
+    "size": 4076
+  },
+  {
+    "id": 105428,
+    "name": "Phoenix College",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85013",
+    "size": 6952
+  },
+  {
+    "id": 105525,
+    "name": "Pima Community College",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85709-1275",
+    "size": 13869
+  },
+  {
+    "id": 105747,
+    "name": "Scottsdale Community College",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85256",
+    "size": 4274
+  },
+  {
+    "id": 105792,
+    "name": "South Mountain Community College",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85042",
+    "size": 2612
+  },
+  {
+    "id": 106148,
+    "name": "Yavapai College",
+    "city": "Prescott",
+    "state": "AZ",
+    "zip": "86301",
+    "size": 3732
+  },
+  {
+    "id": 108807,
+    "name": "Allan Hancock College",
+    "city": "Santa Maria",
+    "state": "CA",
+    "zip": "93454-6399",
+    "size": 7812
+  },
+  {
+    "id": 125170,
+    "name": "Berkeley City College",
+    "city": "Berkeley",
+    "state": "CA",
+    "zip": "94704",
+    "size": 4541
+  },
+  {
+    "id": 110334,
+    "name": "Cabrillo College",
+    "city": "Aptos",
+    "state": "CA",
+    "zip": "95003",
+    "size": 7404
+  },
+  {
+    "id": 111434,
+    "name": "Canada College",
+    "city": "Redwood City",
+    "state": "CA",
+    "zip": "94061-1099",
+    "size": 4878
+  },
+  {
+    "id": 111887,
+    "name": "Cerritos College",
+    "city": "Norwalk",
+    "state": "CA",
+    "zip": "90650-6298",
+    "size": 18710
+  },
+  {
+    "id": 111896,
+    "name": "Cerro Coso Community College",
+    "city": "Ridgecrest",
+    "state": "CA",
+    "zip": "93555-9571",
+    "size": 3496
+  },
+  {
+    "id": 111920,
+    "name": "Chabot College",
+    "city": "Hayward",
+    "state": "CA",
+    "zip": "94545",
+    "size": 10861
+  },
+  {
+    "id": 111939,
+    "name": "Chaffey College",
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "zip": "91737-3002",
+    "size": 13568
+  },
+  {
+    "id": 112172,
+    "name": "Citrus College",
+    "city": "Glendora",
+    "state": "CA",
+    "zip": "91741-1899",
+    "size": 8126
+  },
+  {
+    "id": 489201,
+    "name": "Clovis Community College",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93730",
+    "size": 6759
+  },
+  {
+    "id": 112385,
+    "name": "Coastline Community College",
+    "city": "Fountain Valley",
+    "state": "CA",
+    "zip": "92708-2597",
+    "size": 7007
+  },
+  {
+    "id": 108667,
+    "name": "College of Alameda",
+    "city": "Alameda",
+    "state": "CA",
+    "zip": "94501",
+    "size": 4274
+  },
+  {
+    "id": 122791,
+    "name": "College of San Mateo",
+    "city": "San Mateo",
+    "state": "CA",
+    "zip": "94402-3784",
+    "size": 7359
+  },
+  {
+    "id": 111461,
+    "name": "College of the Canyons",
+    "city": "Santa Clarita",
+    "state": "CA",
+    "zip": "91355-1899",
+    "size": 15365
+  },
+  {
+    "id": 113573,
+    "name": "College of the Desert",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92260",
+    "size": 8900
+  },
+  {
+    "id": 123217,
+    "name": "College of the Sequoias",
+    "city": "Visalia",
+    "state": "CA",
+    "zip": "93277-2214",
+    "size": 10752
+  },
+  {
+    "id": 112826,
+    "name": "Contra Costa College",
+    "city": "San Pablo",
+    "state": "CA",
+    "zip": "94806",
+    "size": 4805
+  },
+  {
+    "id": 113111,
+    "name": "Crafton Hills College",
+    "city": "Yucaipa",
+    "state": "CA",
+    "zip": "92339-1799",
+    "size": 5074
+  },
+  {
+    "id": 113193,
+    "name": "Cuesta College",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93403-8106",
+    "size": 6879
+  },
+  {
+    "id": 113218,
+    "name": "Cuyamaca College",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92019",
+    "size": 6788
+  },
+  {
+    "id": 113634,
+    "name": "Diablo Valley College",
+    "city": "Pleasant Hill",
+    "state": "CA",
+    "zip": "94523",
+    "size": 14734
+  },
+  {
+    "id": 113856,
+    "name": "East Los Angeles College",
+    "city": "Monterey Park",
+    "state": "CA",
+    "zip": "91754-6099",
+    "size": 24401
+  },
+  {
+    "id": 113980,
+    "name": "El Camino Community College District",
+    "city": "Torrance",
+    "state": "CA",
+    "zip": "90506",
+    "size": 18994
+  },
+  {
+    "id": 114266,
+    "name": "Evergreen Valley College",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95135-1598",
+    "size": 7670
+  },
+  {
+    "id": 444219,
+    "name": "Folsom Lake College",
+    "city": "Folsom",
+    "state": "CA",
+    "zip": "95630",
+    "size": 8937
+  },
+  {
+    "id": 114859,
+    "name": "Fullerton College",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92832-2095",
+    "size": 16637
+  },
+  {
+    "id": 114938,
+    "name": "Gavilan College",
+    "city": "Gilroy",
+    "state": "CA",
+    "zip": "95020",
+    "size": 4410
+  },
+  {
+    "id": 115001,
+    "name": "Glendale Community College",
+    "city": "Glendale",
+    "state": "CA",
+    "zip": "91208-2894",
+    "size": 9807
+  },
+  {
+    "id": 115126,
+    "name": "Golden West College",
+    "city": "Huntington Beach",
+    "state": "CA",
+    "zip": "92647-2710",
+    "size": 8919
+  },
+  {
+    "id": 115296,
+    "name": "Grossmont College",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92020-1799",
+    "size": 11467
+  },
+  {
+    "id": 115393,
+    "name": "Hartnell College",
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "93901",
+    "size": 7153
+  },
+  {
+    "id": 115861,
+    "name": "Imperial Valley College",
+    "city": "Imperial",
+    "state": "CA",
+    "zip": "92251-0158",
+    "size": 6881
+  },
+  {
+    "id": 116439,
+    "name": "Irvine Valley College",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92618-0301",
+    "size": 9577
+  },
+  {
+    "id": 366401,
+    "name": "Las Positas College",
+    "city": "Livermore",
+    "state": "CA",
+    "zip": "94551-7650",
+    "size": 6766
+  },
+  {
+    "id": 448594,
+    "name": "Lemoore College",
+    "city": "Lemoore",
+    "state": "CA",
+    "zip": "93245",
+    "size": 3223
+  },
+  {
+    "id": 117645,
+    "name": "Long Beach City College",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90808-1706",
+    "size": 21899
+  },
+  {
+    "id": 117788,
+    "name": "Los Angeles City College",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90029",
+    "size": 10857
+  },
+  {
+    "id": 117690,
+    "name": "Los Angeles Harbor College",
+    "city": "Wilmington",
+    "state": "CA",
+    "zip": "90744-2397",
+    "size": 6496
+  },
+  {
+    "id": 117867,
+    "name": "Los Angeles Mission College",
+    "city": "Sylmar",
+    "state": "CA",
+    "zip": "91342-3200",
+    "size": 8031
+  },
+  {
+    "id": 117706,
+    "name": "Los Angeles Pierce College",
+    "city": "Woodland Hills",
+    "state": "CA",
+    "zip": "91371-0002",
+    "size": 13029
+  },
+  {
+    "id": 117715,
+    "name": "Los Angeles Southwest College",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90047-4899",
+    "size": 3793
+  },
+  {
+    "id": 117733,
+    "name": "Los Angeles Valley College",
+    "city": "Valley Glen",
+    "state": "CA",
+    "zip": "91401-4096",
+    "size": 12470
+  },
+  {
+    "id": 117894,
+    "name": "Los Medanos College",
+    "city": "Pittsburg",
+    "state": "CA",
+    "zip": "94565",
+    "size": 7100
+  },
+  {
+    "id": 118684,
+    "name": "Mendocino College",
+    "city": "Ukiah",
+    "state": "CA",
+    "zip": "95482",
+    "size": 2857
+  },
+  {
+    "id": 118718,
+    "name": "Merced College",
+    "city": "Merced",
+    "state": "CA",
+    "zip": "95348-2806",
+    "size": 9677
+  },
+  {
+    "id": 118930,
+    "name": "Mission College",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95054-1897",
+    "size": 5557
+  },
+  {
+    "id": 119067,
+    "name": "Monterey Peninsula College",
+    "city": "Monterey",
+    "state": "CA",
+    "zip": "93940-4799",
+    "size": 5759
+  },
+  {
+    "id": 119137,
+    "name": "Moorpark College",
+    "city": "Moorpark",
+    "state": "CA",
+    "zip": "93021-1695",
+    "size": 12011
+  },
+  {
+    "id": 460394,
+    "name": "Moreno Valley College",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "zip": "92551",
+    "size": 8292
+  },
+  {
+    "id": 119331,
+    "name": "Napa Valley College",
+    "city": "Napa",
+    "state": "CA",
+    "zip": "94558-6236",
+    "size": 3205
+  },
+  {
+    "id": 460464,
+    "name": "Norco College",
+    "city": "Norco",
+    "state": "CA",
+    "zip": "92860",
+    "size": 8359
+  },
+  {
+    "id": 120342,
+    "name": "Orange Coast College",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "zip": "92626",
+    "size": 16117
+  },
+  {
+    "id": 120421,
+    "name": "Oxnard College",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93033-6699",
+    "size": 6059
+  },
+  {
+    "id": 120953,
+    "name": "Palo Verde College",
+    "city": "Blythe",
+    "state": "CA",
+    "zip": "92225",
+    "size": 2909
+  },
+  {
+    "id": 121044,
+    "name": "Pasadena City College",
+    "city": "Pasadena",
+    "state": "CA",
+    "zip": "91106-2003",
+    "size": 20624
+  },
+  {
+    "id": 117052,
+    "name": "Reedley College",
+    "city": "Reedley",
+    "state": "CA",
+    "zip": "93654",
+    "size": 4853
+  },
+  {
+    "id": 121901,
+    "name": "Riverside City College",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506",
+    "size": 17361
+  },
+  {
+    "id": 122205,
+    "name": "Saddleback College",
+    "city": "Mission Viejo",
+    "state": "CA",
+    "zip": "92692-3635",
+    "size": 15959
+  },
+  {
+    "id": 122339,
+    "name": "San Diego City College",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101-4787",
+    "size": 10584
+  },
+  {
+    "id": 122384,
+    "name": "San Diego Miramar College",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92126-2999",
+    "size": 10740
+  },
+  {
+    "id": 122889,
+    "name": "Santa Barbara City College",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zip": "93109-2394",
+    "size": 10070
+  },
+  {
+    "id": 123013,
+    "name": "Santa Rosa Junior College",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95401-4395",
+    "size": 14327
+  },
+  {
+    "id": 399212,
+    "name": "Santiago Canyon College",
+    "city": "Orange",
+    "state": "CA",
+    "zip": "92869-4512",
+    "size": 10613
+  },
+  {
+    "id": 123800,
+    "name": "Southwestern College",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910-7299",
+    "size": 16640
+  },
+  {
+    "id": 124113,
+    "name": "Taft College",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93268",
+    "size": 3216
+  },
+  {
+    "id": 125028,
+    "name": "Ventura College",
+    "city": "Ventura",
+    "state": "CA",
+    "zip": "93003-3872",
+    "size": 9971
+  },
+  {
+    "id": 125499,
+    "name": "West Valley College",
+    "city": "Saratoga",
+    "state": "CA",
+    "zip": "95070",
+    "size": 6086
+  },
+  {
+    "id": 126207,
+    "name": "Aims Community College",
+    "city": "Greeley",
+    "state": "CO",
+    "zip": "80634",
+    "size": 3182
+  },
+  {
+    "id": 126863,
+    "name": "Community College of Aurora",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80011-9036",
+    "size": 3346
+  },
+  {
+    "id": 134495,
+    "name": "Hillsborough Community College",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33606-3584",
+    "size": 19998
+  },
+  {
+    "id": 244437,
+    "name": "Georgia State University-Perimeter College",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303-3083",
+    "size": 12871
+  },
+  {
+    "id": 141811,
+    "name": "Leeward Community College",
+    "city": "Pearl City",
+    "state": "HI",
+    "zip": "96782-3366",
+    "size": 3382
+  },
+  {
+    "id": 455114,
+    "name": "College of Western Idaho",
+    "city": "Nampa",
+    "state": "ID",
+    "zip": "83687",
+    "size": 5898
+  },
+  {
+    "id": 142443,
+    "name": "North Idaho College",
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "zip": "83814-2199",
+    "size": 2488
+  },
+  {
+    "id": 144209,
+    "name": "City Colleges of Chicago-Harold Washington College",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601-2449",
+    "size": 4146
+  },
+  {
+    "id": 144184,
+    "name": "City Colleges of Chicago-Harry S Truman College",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60640-6063",
+    "size": 2248
+  },
+  {
+    "id": 144218,
+    "name": "City Colleges of Chicago-Wilbur Wright College",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60634-1500",
+    "size": 4186
+  },
+  {
+    "id": 146472,
+    "name": "College of Lake County",
+    "city": "Grayslake",
+    "state": "IL",
+    "zip": "60030-1198",
+    "size": 9282
+  },
+  {
+    "id": 144944,
+    "name": "Elgin Community College",
+    "city": "Elgin",
+    "state": "IL",
+    "zip": "60123-7193",
+    "size": 6463
+  },
+  {
+    "id": 384342,
+    "name": "Heartland Community College",
+    "city": "Normal",
+    "state": "IL",
+    "zip": "61761-9446",
+    "size": 2991
+  },
+  {
+    "id": 145682,
+    "name": "Illinois Central College",
+    "city": "East Peoria",
+    "state": "IL",
+    "zip": "61635-0001",
+    "size": 4909
+  },
+  {
+    "id": 147004,
+    "name": "McHenry County College",
+    "city": "Crystal Lake",
+    "state": "IL",
+    "zip": "60012-2761",
+    "size": 4335
+  },
+  {
+    "id": 147800,
+    "name": "Oakton College",
+    "city": "Des Plaines",
+    "state": "IL",
+    "zip": "60016-1268",
+    "size": 6229
+  },
+  {
+    "id": 149365,
+    "name": "South Suburban College",
+    "city": "South Holland",
+    "state": "IL",
+    "zip": "60473-1200",
+    "size": 2012
+  },
+  {
+    "id": 149842,
+    "name": "William Rainey Harper College",
+    "city": "Palatine",
+    "state": "IL",
+    "zip": "60067-7398",
+    "size": 8815
+  },
+  {
+    "id": 154697,
+    "name": "Barton County Community College",
+    "city": "Great Bend",
+    "state": "KS",
+    "zip": "67530",
+    "size": 2273
+  },
+  {
+    "id": 154800,
+    "name": "Butler Community College",
+    "city": "El Dorado",
+    "state": "KS",
+    "zip": "67042-3280",
+    "size": 5694
+  },
+  {
+    "id": 155210,
+    "name": "Johnson County Community College",
+    "city": "Overland Park",
+    "state": "KS",
+    "zip": "66210-1299",
+    "size": 10634
+  },
+  {
+    "id": 165033,
+    "name": "Bristol Community College",
+    "city": "Fall River",
+    "state": "MA",
+    "zip": "02720-7395",
+    "size": 5073
+  },
+  {
+    "id": 165112,
+    "name": "Bunker Hill Community College",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02129-2925",
+    "size": 7322
+  },
+  {
+    "id": 166133,
+    "name": "Holyoke Community College",
+    "city": "Holyoke",
+    "state": "MA",
+    "zip": "01040",
+    "size": 3164
+  },
+  {
+    "id": 166887,
+    "name": "Middlesex Community College",
+    "city": "Bedford",
+    "state": "MA",
+    "zip": "01730-9124",
+    "size": 4658
+  },
+  {
+    "id": 162122,
+    "name": "College of Southern Maryland",
+    "city": "La Plata",
+    "state": "MD",
+    "zip": "20646-0910",
+    "size": 4422
+  },
+  {
+    "id": 162779,
+    "name": "Howard Community College",
+    "city": "Columbia",
+    "state": "MD",
+    "zip": "21044-3197",
+    "size": 6779
+  },
+  {
+    "id": 163426,
+    "name": "Montgomery College",
+    "city": "Rockville",
+    "state": "MD",
+    "zip": "20850",
+    "size": 13519
+  },
+  {
+    "id": 163657,
+    "name": "Prince George's Community College",
+    "city": "Largo",
+    "state": "MD",
+    "zip": "20774-2199",
+    "size": 8049
+  },
+  {
+    "id": 169521,
+    "name": "Delta College",
+    "city": "University Center",
+    "state": "MI",
+    "zip": "48710",
+    "size": 6061
+  },
+  {
+    "id": 170541,
+    "name": "Kalamazoo Valley Community College",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49003-4070",
+    "size": 4885
+  },
+  {
+    "id": 169275,
+    "name": "Mott Community College",
+    "city": "Flint",
+    "state": "MI",
+    "zip": "48503-2089",
+    "size": 5152
+  },
+  {
+    "id": 171535,
+    "name": "Oakland Community College",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "zip": "48326",
+    "size": 11772
+  },
+  {
+    "id": 172617,
+    "name": "Washtenaw Community College",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48105-4800",
+    "size": 7736
+  },
+  {
+    "id": 172635,
+    "name": "Wayne County Community College District",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48226",
+    "size": 7848
+  },
+  {
+    "id": 172963,
+    "name": "Anoka-Ramsey Community College",
+    "city": "Coon Rapids",
+    "state": "MN",
+    "zip": "55433-3470",
+    "size": 3983
+  },
+  {
+    "id": 173799,
+    "name": "Inver Hills Community College",
+    "city": "Inver Grove Heights",
+    "state": "MN",
+    "zip": "55076-3224",
+    "size": 2203
+  },
+  {
+    "id": 174428,
+    "name": "Normandale Community College",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55431-4399",
+    "size": 6040
+  },
+  {
+    "id": 174376,
+    "name": "North Hennepin Community College",
+    "city": "Brooklyn Park",
+    "state": "MN",
+    "zip": "55445",
+    "size": 3299
+  },
+  {
+    "id": 177995,
+    "name": "Metropolitan Community College-Kansas City",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111-2429",
+    "size": 10412
+  },
+  {
+    "id": 178448,
+    "name": "Moberly Area Community College",
+    "city": "Moberly",
+    "state": "MO",
+    "zip": "65270-1304",
+    "size": 2928
+  },
+  {
+    "id": 179308,
+    "name": "Saint Louis Community College",
+    "city": "Bridgeton",
+    "state": "MO",
+    "zip": "63044",
+    "size": 11174
+  },
+  {
+    "id": 262031,
+    "name": "St Charles Community College",
+    "city": "Cottleville",
+    "state": "MO",
+    "zip": "63376-0975",
+    "size": 5008
+  },
+  {
+    "id": 198118,
+    "name": "Caldwell Community College and Technical Institute",
+    "city": "Hudson",
+    "state": "NC",
+    "zip": "28638",
+    "size": 2331
+  },
+  {
+    "id": 198154,
+    "name": "Cape Fear Community College",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28401-3910",
+    "size": 9497
+  },
+  {
+    "id": 198233,
+    "name": "Catawba Valley Community College",
+    "city": "Hickory",
+    "state": "NC",
+    "zip": "28602-0699",
+    "size": 3517
+  },
+  {
+    "id": 198260,
+    "name": "Central Piedmont Community College",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28204",
+    "size": 13640
+  },
+  {
+    "id": 199856,
+    "name": "Wake Technical Community College",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27603-5696",
+    "size": 18605
+  },
+  {
+    "id": 183655,
+    "name": "Atlantic Cape Community College",
+    "city": "Mays Landing",
+    "state": "NJ",
+    "zip": "08330-2699",
+    "size": 3860
+  },
+  {
+    "id": 183743,
+    "name": "Bergen Community College",
+    "city": "Paramus",
+    "state": "NJ",
+    "zip": "07652-1595",
+    "size": 10597
+  },
+  {
+    "id": 183938,
+    "name": "Camden County College",
+    "city": "Blackwood",
+    "state": "NJ",
+    "zip": "08012",
+    "size": 6555
+  },
+  {
+    "id": 184180,
+    "name": "County College of Morris",
+    "city": "Randolph",
+    "state": "NJ",
+    "zip": "07869-2086",
+    "size": 5315
+  },
+  {
+    "id": 185536,
+    "name": "Middlesex College",
+    "city": "Edison",
+    "state": "NJ",
+    "zip": "08837",
+    "size": 8321
+  },
+  {
+    "id": 185873,
+    "name": "Ocean County College",
+    "city": "Toms River",
+    "state": "NJ",
+    "zip": "08754-2001",
+    "size": 5566
+  },
+  {
+    "id": 183877,
+    "name": "Rowan College at Burlington County",
+    "city": "Mount Laurel",
+    "state": "NJ",
+    "zip": "08054-1599",
+    "size": 6174
+  },
+  {
+    "id": 184791,
+    "name": "Rowan College of South Jersey-Gloucester Campus",
+    "city": "Sewell",
+    "state": "NJ",
+    "zip": "08080",
+    "size": 4424
+  },
+  {
+    "id": 247603,
+    "name": "Sussex County Community College",
+    "city": "Newton",
+    "state": "NJ",
+    "zip": "07860",
+    "size": 2055
+  },
+  {
+    "id": 187532,
+    "name": "Central New Mexico Community College",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106",
+    "size": 15246
+  },
+  {
+    "id": 190521,
+    "name": "CUNY Borough of Manhattan Community College",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10007",
+    "size": 16850
+  },
+  {
+    "id": 190530,
+    "name": "CUNY Bronx Community College",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10453",
+    "size": 5766
+  },
+  {
+    "id": 190585,
+    "name": "CUNY Hostos Community College",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10451",
+    "size": 4883
+  },
+  {
+    "id": 190619,
+    "name": "CUNY Kingsborough Community College",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11235",
+    "size": 7632
+  },
+  {
+    "id": 190628,
+    "name": "CUNY LaGuardia Community College",
+    "city": "Long Island City",
+    "state": "NY",
+    "zip": "11101",
+    "size": 10556
+  },
+  {
+    "id": 190673,
+    "name": "CUNY Queensborough Community College",
+    "city": "Bayside",
+    "state": "NY",
+    "zip": "11364-1497",
+    "size": 8803
+  },
+  {
+    "id": 190840,
+    "name": "Dutchess Community College",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "zip": "12601-1595",
+    "size": 3696
+  },
+  {
+    "id": 191199,
+    "name": "Finger Lakes Community College",
+    "city": "Canandaigua",
+    "state": "NY",
+    "zip": "14424-8395",
+    "size": 2900
+  },
+  {
+    "id": 193283,
+    "name": "Mohawk Valley Community College",
+    "city": "Utica",
+    "state": "NY",
+    "zip": "13501-5394",
+    "size": 2994
+  },
+  {
+    "id": 193478,
+    "name": "Nassau Community College",
+    "city": "Garden City",
+    "state": "NY",
+    "zip": "11530-6793",
+    "size": 10817
+  },
+  {
+    "id": 194222,
+    "name": "Onondaga Community College",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13215-4585",
+    "size": 4349
+  },
+  {
+    "id": 194240,
+    "name": "Orange County Community College",
+    "city": "Middletown",
+    "state": "NY",
+    "zip": "10940",
+    "size": 3822
+  },
+  {
+    "id": 195058,
+    "name": "Rockland Community College",
+    "city": "Suffern",
+    "state": "NY",
+    "zip": "10901-3699",
+    "size": 4180
+  },
+  {
+    "id": 366395,
+    "name": "Suffolk County Community College",
+    "city": "Selden",
+    "state": "NY",
+    "zip": "11784-2899",
+    "size": 14134
+  },
+  {
+    "id": 189547,
+    "name": "SUNY Broome Community College",
+    "city": "Binghamton",
+    "state": "NY",
+    "zip": "13901-1001",
+    "size": 3203
+  },
+  {
+    "id": 197294,
+    "name": "SUNY Westchester Community College",
+    "city": "Valhalla",
+    "state": "NY",
+    "zip": "10595",
+    "size": 7788
+  },
+  {
+    "id": 203331,
+    "name": "Eastern Gateway Community College",
+    "city": "Steubenville",
+    "state": "OH",
+    "zip": "43952-3598",
+    "size": 13293
+  },
+  {
+    "id": 203599,
+    "name": "Lakeland Community College",
+    "city": "Kirtland",
+    "state": "OH",
+    "zip": "44094-5198",
+    "size": 3143
+  },
+  {
+    "id": 207449,
+    "name": "Oklahoma City Community College",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73159-9987",
+    "size": 9578
+  },
+  {
+    "id": 208318,
+    "name": "Central Oregon Community College",
+    "city": "Bend",
+    "state": "OR",
+    "zip": "97703",
+    "size": 3577
+  },
+  {
+    "id": 208390,
+    "name": "Chemeketa Community College",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97305",
+    "size": 6457
+  },
+  {
+    "id": 208406,
+    "name": "Clackamas Community College",
+    "city": "Oregon City",
+    "state": "OR",
+    "zip": "97045-8980",
+    "size": 4575
+  },
+  {
+    "id": 209038,
+    "name": "Lane Community College",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405-0640",
+    "size": 5861
+  },
+  {
+    "id": 209250,
+    "name": "Mt Hood Community College",
+    "city": "Gresham",
+    "state": "OR",
+    "zip": "97030",
+    "size": 3540
+  },
+  {
+    "id": 209746,
+    "name": "Portland Community College",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97219-7132",
+    "size": 18365
+  },
+  {
+    "id": 211307,
+    "name": "Bucks County Community College",
+    "city": "Newtown",
+    "state": "PA",
+    "zip": "18940-4106",
+    "size": 5199
+  },
+  {
+    "id": 215239,
+    "name": "Community College of Philadelphia",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19130-3991",
+    "size": 11312
+  },
+  {
+    "id": 217475,
+    "name": "Community College of Rhode Island",
+    "city": "Warwick",
+    "state": "RI",
+    "zip": "02886-1807",
+    "size": 11455
+  },
+  {
+    "id": 219888,
+    "name": "Columbia State Community College",
+    "city": "Columbia",
+    "state": "TN",
+    "zip": "38401",
+    "size": 3679
+  },
+  {
+    "id": 220400,
+    "name": "Jackson State Community College",
+    "city": "Jackson",
+    "state": "TN",
+    "zip": "38301-3797",
+    "size": 2211
+  },
+  {
+    "id": 221096,
+    "name": "Motlow State Community College",
+    "city": "Tullahoma",
+    "state": "TN",
+    "zip": "37388",
+    "size": 4055
+  },
+  {
+    "id": 221184,
+    "name": "Nashville State Community College",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37209-4515",
+    "size": 4931
+  },
+  {
+    "id": 221643,
+    "name": "Pellissippi State Community College",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37933-0990",
+    "size": 6391
+  },
+  {
+    "id": 221397,
+    "name": "Roane State Community College",
+    "city": "Harriman",
+    "state": "TN",
+    "zip": "37748",
+    "size": 3203
+  },
+  {
+    "id": 221485,
+    "name": "Southwest Tennessee Community College",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38134",
+    "size": 5207
+  },
+  {
+    "id": 222053,
+    "name": "Volunteer State Community College",
+    "city": "Gallatin",
+    "state": "TN",
+    "zip": "37066-3188",
+    "size": 5139
+  },
+  {
+    "id": 222062,
+    "name": "Walters State Community College",
+    "city": "Morristown",
+    "state": "TN",
+    "zip": "37813-6899",
+    "size": 3781
+  },
+  {
+    "id": 223427,
+    "name": "Blinn College District",
+    "city": "Brenham",
+    "state": "TX",
+    "zip": "77833-4098",
+    "size": 16156
+  },
+  {
+    "id": 224642,
+    "name": "El Paso Community College",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79925-6507",
+    "size": 22893
+  },
+  {
+    "id": 225371,
+    "name": "Hill College",
+    "city": "Hillsboro",
+    "state": "TX",
+    "zip": "76645",
+    "size": 2269
+  },
+  {
+    "id": 225423,
+    "name": "Houston Community College",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002",
+    "size": 37970
+  },
+  {
+    "id": 226578,
+    "name": "McLennan Community College",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76708",
+    "size": 4997
+  },
+  {
+    "id": 488730,
+    "name": "Northeast Lakeview College",
+    "city": "Universal City",
+    "state": "TX",
+    "zip": "78145",
+    "size": 5689
+  },
+  {
+    "id": 420398,
+    "name": "Northwest Vista College",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78251",
+    "size": 13872
+  },
+  {
+    "id": 246354,
+    "name": "Palo Alto College",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78224-2499",
+    "size": 7723
+  },
+  {
+    "id": 227401,
+    "name": "Paris Junior College",
+    "city": "Paris",
+    "state": "TX",
+    "zip": "75460",
+    "size": 2265
+  },
+  {
+    "id": 228158,
+    "name": "South Plains College",
+    "city": "Levelland",
+    "state": "TX",
+    "zip": "79336",
+    "size": 6124
+  },
+  {
+    "id": 228316,
+    "name": "Southwest Texas Junior College",
+    "city": "Uvalde",
+    "state": "TX",
+    "zip": "78801-6297",
+    "size": 3170
+  },
+  {
+    "id": 228547,
+    "name": "Tarrant County College District",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76102",
+    "size": 40214
+  },
+  {
+    "id": 227377,
+    "name": "Texas Southmost College",
+    "city": "Brownsville",
+    "state": "TX",
+    "zip": "78520",
+    "size": 3453
+  },
+  {
+    "id": 230746,
+    "name": "Salt Lake Community College",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84123",
+    "size": 17247
+  },
+  {
+    "id": 231536,
+    "name": "Blue Ridge Community College",
+    "city": "Weyers Cave",
+    "state": "VA",
+    "zip": "24486-0080",
+    "size": 2677
+  },
+  {
+    "id": 232450,
+    "name": "Brightpoint Community College",
+    "city": "Chester",
+    "state": "VA",
+    "zip": "23831-5316",
+    "size": 5548
+  },
+  {
+    "id": 231697,
+    "name": "Central Virginia Community College",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24502-2498",
+    "size": 2144
+  },
+  {
+    "id": 232195,
+    "name": "Germanna Community College",
+    "city": "Locust Grove",
+    "state": "VA",
+    "zip": "22508-2102",
+    "size": 5469
+  },
+  {
+    "id": 232946,
+    "name": "Northern Virginia Community College",
+    "city": "Annandale",
+    "state": "VA",
+    "zip": "22003-3796",
+    "size": 31737
+  },
+  {
+    "id": 233116,
+    "name": "Piedmont Virginia Community College",
+    "city": "Charlottesville",
+    "state": "VA",
+    "zip": "22902-7589",
+    "size": 3032
+  },
+  {
+    "id": 235149,
+    "name": "Everett Community College",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201",
+    "size": 4378
+  },
+  {
+    "id": 236610,
+    "name": "Shoreline Community College",
+    "city": "Shoreline",
+    "state": "WA",
+    "zip": "98133-5696",
+    "size": 3109
+  },
+  {
+    "id": 236656,
+    "name": "South Puget Sound Community College",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98512-6292",
+    "size": 2692
+  }
+]
