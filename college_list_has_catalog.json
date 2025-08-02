@@ -1,0 +1,515 @@
+[
+    {
+        "verified_college": "NorthWest Arkansas Community College"
+    },
+    {
+        "verified_college": "Arizona Western College"
+    },
+    {
+        "verified_college": "Central Arizona College"
+    },
+    {
+        "verified_college": "Coconino Community College"
+    },
+    {
+        "verified_college": "Estrella Mountain Community College"
+    },
+    {
+        "verified_college": "Glendale Community College"
+    },
+    {
+        "verified_college": "Mesa Community College"
+    },
+    {
+        "verified_college": "Paradise Valley Community College"
+    },
+    {
+        "verified_college": "Phoenix College"
+    },
+    {
+        "verified_college": "Pima Community College"
+    },
+    {
+        "verified_college": "Scottsdale Community College"
+    },
+    {
+        "verified_college": "South Mountain Community College"
+    },
+    {
+        "verified_college": "Yavapai College"
+    },
+    {
+        "verified_college": "Allan Hancock College"
+    },
+    {
+        "verified_college": "Berkeley City College"
+    },
+    {
+        "verified_college": "Cabrillo College"
+    },
+    {
+        "verified_college": "Canada College"
+    },
+    {
+        "verified_college": "Cerritos College"
+    },
+    {
+        "verified_college": "Chabot College"
+    },
+    {
+        "verified_college": "Chaffey College"
+    },
+    {
+        "verified_college": "Citrus College"
+    },
+    {
+        "verified_college": "Coastline Community College"
+    },
+    {
+        "verified_college": "College of Alameda"
+    },
+    {
+        "verified_college": "College of San Mateo"
+    },
+    {
+        "verified_college": "College of the Canyons"
+    },
+    {
+        "verified_college": "College of the Desert"
+    },
+    {
+        "verified_college": "College of the Sequoias"
+    },
+    {
+        "verified_college": "Contra Costa College"
+    },
+    {
+        "verified_college": "Crafton Hills College"
+    },
+    {
+        "verified_college": "Cuesta College"
+    },
+    {
+        "verified_college": "Cuyamaca College"
+    },
+    {
+        "verified_college": "Diablo Valley College"
+    },
+    {
+        "verified_college": "East Los Angeles College"
+    },
+    {
+        "verified_college": "El Camino Community College District"
+    },
+    {
+        "verified_college": "Evergreen Valley College"
+    },
+    {
+        "verified_college": "Folsom Lake College"
+    },
+    {
+        "verified_college": "Fullerton College"
+    },
+    {
+        "verified_college": "Gavilan College"
+    },
+    {
+        "verified_college": "Glendale Community College"
+    },
+    {
+        "verified_college": "Golden West College"
+    },
+    {
+        "verified_college": "Hartnell College"
+    },
+    {
+        "verified_college": "Imperial Valley College"
+    },
+    {
+        "verified_college": "Irvine Valley College"
+    },
+    {
+        "verified_college": "Long Beach City College"
+    },
+    {
+        "verified_college": "Los Angeles Harbor College"
+    },
+    {
+        "verified_college": "Los Angeles Mission College"
+    },
+    {
+        "verified_college": "Los Angeles Pierce College"
+    },
+    {
+        "verified_college": "Los Angeles Southwest College"
+    },
+    {
+        "verified_college": "Los Angeles Valley College"
+    },
+    {
+        "verified_college": "Mission College"
+    },
+    {
+        "verified_college": "Monterey Peninsula College"
+    },
+    {
+        "verified_college": "Moorpark College"
+    },
+    {
+        "verified_college": "Napa Valley College"
+    },
+    {
+        "verified_college": "Orange Coast College"
+    },
+    {
+        "verified_college": "Oxnard College"
+    },
+    {
+        "verified_college": "Palo Verde College"
+    },
+    {
+        "verified_college": "Pasadena City College"
+    },
+    {
+        "verified_college": "Reedley College"
+    },
+    {
+        "verified_college": "Riverside City College"
+    },
+    {
+        "verified_college": "Saddleback College"
+    },
+    {
+        "verified_college": "San Diego Miramar College"
+    },
+    {
+        "verified_college": "Santa Barbara City College"
+    },
+    {
+        "verified_college": "Santa Rosa Junior College"
+    },
+    {
+        "verified_college": "Santiago Canyon College"
+    },
+    {
+        "verified_college": "Southwestern College"
+    },
+    {
+        "verified_college": "Taft College"
+    },
+    {
+        "verified_college": "Ventura College"
+    },
+    {
+        "verified_college": "West Valley College"
+    },
+    {
+        "verified_college": "Aims Community College"
+    },
+    {
+        "verified_college": "Community College of Aurora"
+    },
+    {
+        "verified_college": "Hillsborough Community College"
+    },
+    {
+        "verified_college": "Leeward Community College"
+    },
+    {
+        "verified_college": "North Idaho College"
+    },
+    {
+        "verified_college": "City Colleges of Chicago-Harold Washington College"
+    },
+    {
+        "verified_college": "City Colleges of Chicago-Harry S Truman College"
+    },
+    {
+        "verified_college": "City Colleges of Chicago-Wilbur Wright College"
+    },
+    {
+        "verified_college": "College of Lake County"
+    },
+    {
+        "verified_college": "Elgin Community College"
+    },
+    {
+        "verified_college": "Heartland Community College"
+    },
+    {
+        "verified_college": "Illinois Central College"
+    },
+    {
+        "verified_college": "McHenry County College"
+    },
+    {
+        "verified_college": "Oakton College"
+    },
+    {
+        "verified_college": "South Suburban College"
+    },
+    {
+        "verified_college": "Barton County Community College"
+    },
+    {
+        "verified_college": "Butler Community College"
+    },
+    {
+        "verified_college": "Johnson County Community College"
+    },
+    {
+        "verified_college": "Bristol Community College"
+    },
+    {
+        "verified_college": "Bunker Hill Community College"
+    },
+    {
+        "verified_college": "Holyoke Community College"
+    },
+    {
+        "verified_college": "Middlesex Community College"
+    },
+    {
+        "verified_college": "College of Southern Maryland"
+    },
+    {
+        "verified_college": "Howard Community College"
+    },
+    {
+        "verified_college": "Montgomery College"
+    },
+    {
+        "verified_college": "Prince George's Community College"
+    },
+    {
+        "verified_college": "Delta College"
+    },
+    {
+        "verified_college": "Kalamazoo Valley Community College"
+    },
+    {
+        "verified_college": "Mott Community College"
+    },
+    {
+        "verified_college": "Oakland Community College"
+    },
+    {
+        "verified_college": "Washtenaw Community College"
+    },
+    {
+        "verified_college": "Wayne County Community College District"
+    },
+    {
+        "verified_college": "Anoka-Ramsey Community College"
+    },
+    {
+        "verified_college": "Inver Hills Community College"
+    },
+    {
+        "verified_college": "Normandale Community College"
+    },
+    {
+        "verified_college": "North Hennepin Community College"
+    },
+    {
+        "verified_college": "Metropolitan Community College-Kansas City"
+    },
+    {
+        "verified_college": "Saint Louis Community College"
+    },
+    {
+        "verified_college": "St Charles Community College"
+    },
+    {
+        "verified_college": "Caldwell Community College and Technical Institute"
+    },
+    {
+        "verified_college": "Central Piedmont Community College"
+    },
+    {
+        "verified_college": "Wake Technical Community College"
+    },
+    {
+        "verified_college": "Atlantic Cape Community College"
+    },
+    {
+        "verified_college": "Bergen Community College"
+    },
+    {
+        "verified_college": "Camden County College"
+    },
+    {
+        "verified_college": "County College of Morris"
+    },
+    {
+        "verified_college": "Middlesex College"
+    },
+    {
+        "verified_college": "Ocean County College"
+    },
+    {
+        "verified_college": "Rowan College at Burlington County"
+    },
+    {
+        "verified_college": "Central New Mexico Community College"
+    },
+    {
+        "verified_college": "CUNY Borough of Manhattan Community College"
+    },
+    {
+        "verified_college": "CUNY Bronx Community College"
+    },
+    {
+        "verified_college": "CUNY Hostos Community College"
+    },
+    {
+        "verified_college": "CUNY Kingsborough Community College"
+    },
+    {
+        "verified_college": "CUNY LaGuardia Community College"
+    },
+    {
+        "verified_college": "Dutchess Community College"
+    },
+    {
+        "verified_college": "Finger Lakes Community College"
+    },
+    {
+        "verified_college": "Mohawk Valley Community College"
+    },
+    {
+        "verified_college": "Nassau Community College"
+    },
+    {
+        "verified_college": "Onondaga Community College"
+    },
+    {
+        "verified_college": "Orange County Community College"
+    },
+    {
+        "verified_college": "Rockland Community College"
+    },
+    {
+        "verified_college": "Suffolk County Community College"
+    },
+    {
+        "verified_college": "SUNY Westchester Community College"
+    },
+    {
+        "verified_college": "Eastern Gateway Community College"
+    },
+    {
+        "verified_college": "Lakeland Community College"
+    },
+    {
+        "verified_college": "Oklahoma City Community College"
+    },
+    {
+        "verified_college": "Central Oregon Community College"
+    },
+    {
+        "verified_college": "Chemeketa Community College"
+    },
+    {
+        "verified_college": "Clackamas Community College"
+    },
+    {
+        "verified_college": "Lane Community College"
+    },
+    {
+        "verified_college": "Mt Hood Community College"
+    },
+    {
+        "verified_college": "Portland Community College"
+    },
+    {
+        "verified_college": "Bucks County Community College"
+    },
+    {
+        "verified_college": "Community College of Philadelphia"
+    },
+    {
+        "verified_college": "Community College of Rhode Island"
+    },
+    {
+        "verified_college": "Columbia State Community College"
+    },
+    {
+        "verified_college": "Jackson State Community College"
+    },
+    {
+        "verified_college": "Motlow State Community College"
+    },
+    {
+        "verified_college": "Nashville State Community College"
+    },
+    {
+        "verified_college": "Pellissippi State Community College"
+    },
+    {
+        "verified_college": "Roane State Community College"
+    },
+    {
+        "verified_college": "Southwest Tennessee Community College"
+    },
+    {
+        "verified_college": "Volunteer State Community College"
+    },
+    {
+        "verified_college": "Walters State Community College"
+    },
+    {
+        "verified_college": "El Paso Community College"
+    },
+    {
+        "verified_college": "Hill College"
+    },
+    {
+        "verified_college": "Houston Community College"
+    },
+    {
+        "verified_college": "McLennan Community College"
+    },
+    {
+        "verified_college": "Northwest Vista College"
+    },
+    {
+        "verified_college": "Palo Alto College"
+    },
+    {
+        "verified_college": "South Plains College"
+    },
+    {
+        "verified_college": "Southwest Texas Junior College"
+    },
+    {
+        "verified_college": "Tarrant County College District"
+    },
+    {
+        "verified_college": "Salt Lake Community College"
+    },
+    {
+        "verified_college": "Blue Ridge Community College"
+    },
+    {
+        "verified_college": "Brightpoint Community College"
+    },
+    {
+        "verified_college": "Central Virginia Community College"
+    },
+    {
+        "verified_college": "Germanna Community College"
+    },
+    {
+        "verified_college": "Northern Virginia Community College"
+    },
+    {
+        "verified_college": "Piedmont Virginia Community College"
+    },
+    {
+        "verified_college": "Shoreline Community College"
+    },
+    {
+        "verified_college": "South Puget Sound Community College"
+    }
+]
